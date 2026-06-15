@@ -20,7 +20,7 @@ Welcome to my very first GitHub repository! This is the starting point of my jou
 
 ### 📫 How to Reach Me
 *   **Email:** contact.putriherawati@gmail.com
-*   **LinkedIn:** https://linkedin.com
+*   **LinkedIn:** www.linkedin.com/in/putri-herawati-1b300b417
 
 ---
 *“Every great developer started with a simple 'Hello World'. Ready to learn, build, and grow.”*
