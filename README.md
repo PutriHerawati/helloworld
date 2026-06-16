@@ -7,7 +7,7 @@ Welcome to my very first GitHub repository! This is the starting point of my jou
 ### 💻 About Me
 *   🎓 **Education:** Computer Engineering Student at Politeknik Insan Tazakka (Expected Graduation: 2029)
 *   🚀 **Current Focus:** Learning Git, GitHub, and foundational programming languages.
-*   🎯 **Career Goal:** Aspiring Tech Professional / Software Engineer open for future global opportunities, including in South Korea.
+*   🎯 **Career Goal:** Aspiring Tech Professional / Software Engineer open for future global opportunities, including in [...].
 
 ---
 
