@@ -28,15 +28,15 @@ int main() {
 
         // Life stage categorization logic
         if (age >= 18) {
-            cout << "Category: Adult (Dewasa)" << endl;
+            cout << "Category: Adult" << endl;
             cout << "Status: Eligible for professional opportunities." << endl;
         } 
         else if (age >= 12) {
-            cout << "Category: Teenager (Remaja)" << endl;
+            cout << "Category: Teenager" << endl;
             cout << "Status: Focus on secondary technical education." << endl;
         } 
         else {
-            cout << "Category: Child (Anak-anak)" << endl;
+            cout << "Category: Child" << endl;
             cout << "Status: Early stage development." << endl;
         }
     }
