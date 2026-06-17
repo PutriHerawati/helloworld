@@ -8,7 +8,7 @@ int main() {
     cout << "---------------------------------" << endl;
 
     // Input configuration
-    cout << "Enter your birth year (e.g., 2005): ";
+    cout << "Enter your birth year (e.g., 2006): ";
     cin >> birthYear;
 
     cout << "Enter the current year (e.g., 2026): ";
